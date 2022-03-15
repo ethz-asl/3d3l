@@ -2,7 +2,7 @@
 
 With the advent of powerful, light-weight 3D LiDARs, they have become the hearth of many navigation and
 SLAM algorithms on various autonomous systems.
-In this work, we use a state-of-the-art 2D feature network ([[R2D2](https://github.com/naver/r2d2)]) as a basis for 3D3L, exploiting both intensity and depth of LiDARs to extract powerful 3D features.
+In this work, we use a state-of-the-art 2D feature network ([R2D2](https://github.com/naver/r2d2)) as a basis for 3D3L, exploiting both intensity and depth of LiDARs to extract powerful 3D features.
 
 This repository includes training pair generation, keypoint extraction, matching, registration and pose estimation algorithms.
 
